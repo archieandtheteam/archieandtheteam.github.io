@@ -1,0 +1,235 @@
+h1, h2, p {
+	font-family: "Arial", Helvetica, sans-serif;
+	color: #ffffff;
+}
+
+h1 {
+	font-size: 100px;
+	margin: 0 auto;
+	padding: 50px;
+	white-space: nowrap;
+	color: #ffffff;
+}
+
+h2 {
+	font-size: 50px;
+	margin: 0 auto;
+}
+
+body {
+	display: inline-block;
+	width: 100%;
+	margin: 0 auto;
+	background-color:  #0d0d0d;
+}
+
+
+
+.wrapper {
+	
+}
+
+.header {
+	background-color: #1a1a1a;
+	width: 100%;
+	text-align: center;
+	position: fixed;
+}
+
+
+.body-wrapper {
+	padding-top: 200px;
+}
+
+
+.archie {
+	background-image: url('archie.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: right;
+	overflow: auto;
+	background-size: cover;
+	
+}
+
+.a-text {
+	padding:35px;
+	float: right;
+	width: 50%;
+}
+
+
+
+.james {
+	background-image: url('james.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	overflow: auto;
+}
+
+.j-text {
+	padding:35px;
+	float: left;
+	width: 50%;
+}
+
+
+
+.indie {
+	background-image: url('indie.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: right;
+	background-color: #000000;
+	overflow: auto;
+}
+
+.i-text {
+	padding:35px; 
+	float: right;
+	width: 50%;
+}
+
+
+
+.gucci {
+	background-image: url('gucci.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	overflow: auto;
+}
+
+.g-text {
+	padding:35px;
+	float: left;
+	width: 50%;
+}
+
+
+
+.lava {
+	background-image: url('lava.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: right;
+	background-color: #000000;
+	overflow: auto;
+}
+
+.l-text {
+	padding:35px; 
+	float: right;
+	width: 50%;
+}
+
+
+
+.kayjay {
+	background-image: url('kayjay.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	overflow: auto;
+}
+
+.k-text {
+	padding:35px;
+	float: left;
+	width: 50%;
+}
+
+
+
+.byte {
+	background-image: url('byte.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: right;
+	background-color: #000000;
+	overflow: auto;
+}
+
+.b-text {
+	padding:35px; 
+	float: right;
+	width: 50%;
+}
+
+
+
+
+.brady {
+	background-image: url('brady.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	overflow: auto;
+}
+
+.br-text {
+	padding:35px;
+	float: left;
+	width: 50%;
+}
+
+
+
+.harry {
+	background-image: url('harry.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: right;
+	background-color: #000000;
+	overflow: auto;
+}
+
+.ha-text {
+	padding:35px; 
+	float: right;
+	width: 50%;
+}
+
+
+
+.sheep {
+	background-image: url('sheep.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	overflow: auto;
+}
+
+.sh-text {
+	padding:35px;
+	float: left;
+	width: 50%;
+}
+
+
+
+.shay {
+	background-image: url('shay.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: right;
+	background-color: #000000;
+	overflow: auto;
+}
+
+.sha-text {
+	padding:35px; 
+	float: right;
+	width: 50%;
+}
